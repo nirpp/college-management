@@ -1,0 +1,17 @@
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\bin\Debug\CollegeMgmtSys1.exe.config
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\bin\Debug\CollegeMgmtSys1.exe
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\bin\Debug\CollegeMgmtSys1.pdb
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.csproj.AssemblyReference.cache
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.Form1.resources
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.Properties.Resources.resources
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.csproj.GenerateResource.cache
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.csproj.CoreCompileInputs.cache
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.exe
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.pdb
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.loginn.resources
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.main.resources
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.admission.resources
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.about.resources
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.fees.resources
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.Admission1.resources
+C:\Users\Nirzar Panvelkar\source\repos\CollegeMgmtSys1\obj\Debug\CollegeMgmtSys1.notice.resources
